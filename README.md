@@ -81,7 +81,7 @@ _Add your project screenshots here._
 
 ## 👨‍💻 Author
 
-Developed by Mark
+Developed by Mark Fruelda
 
 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/a380ae70-b74f-4c94-9aa6-cf3fcae5d1f9" />
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/a813205d-d2a6-4224-942f-9c5f0a13bc34" />
