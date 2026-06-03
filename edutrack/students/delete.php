@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/../config/session.php';
+requireLogin();
 // students/delete.php — Deletes a student (cascade removes grades via FK)
 require_once __DIR__ . '/../config/database.php';
 $conn = getConnection();
