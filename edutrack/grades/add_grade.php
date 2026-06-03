@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/../config/session.php';
+requireLogin();
 // grades/add_grade.php
 require_once __DIR__ . '/../config/database.php';
 $conn = getConnection();
