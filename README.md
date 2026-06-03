@@ -74,7 +74,7 @@ _Add your project screenshots here._
 
 ## 📌 Future Improvements
 
-- Login and authentication system
+- Login and authentication system (DONE✅)
 - Role-based access
 - Export grades to PDF
 - Dashboard analytics
