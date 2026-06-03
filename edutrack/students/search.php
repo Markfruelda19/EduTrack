@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/../config/session.php';
+requireLogin();
 // students/search.php — JSON endpoint for AJAX live search
 require_once __DIR__ . '/../config/database.php';
 header('Content-Type: application/json');
