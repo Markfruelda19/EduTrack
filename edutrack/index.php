@@ -119,6 +119,7 @@ include __DIR__ . '/includes/header.php';
 
 <div style="margin-top:16px;">
   <a href="/edutrack/students/view.php" class="btn btn-ghost">View all students →</a>
+    <a href="/edutrack/grades/export_all_pdf.php" class="btn btn-success" target="_blank">⬇ Export All Grades PDF</a>
 </div>
 
 <?php $conn->close(); include __DIR__ . '/includes/footer.php'; ?>
