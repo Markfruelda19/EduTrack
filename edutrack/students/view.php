@@ -22,6 +22,7 @@ include __DIR__ . '/../includes/header.php';
         <span class="search-icon">⌕</span>
         <input type="text" id="studentSearch" placeholder="Search by name, ID, or course…" autocomplete="off" />
       </div>
+        <a href="/edutrack/grades/export_all_pdf.php" class="btn btn-success" target="_blank">⬇ Export All PDF</a>
       <a href="/edutrack/students/add.php" class="btn btn-primary">⊕ Add Student</a>
     </div>
   </div>
