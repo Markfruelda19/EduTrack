@@ -75,7 +75,7 @@ $user      = currentUser();
       <?php else: ?>
         <span class="badge-school">Teacher</span>
       <?php endif; ?>
-      <span class="badge-school" style="margin-left:8px;">Naga College</span>
+      <span class="badge-school" style="margin-left:8px;">BATSATEU</span>
     </div>
   </header>
   <main class="content">
