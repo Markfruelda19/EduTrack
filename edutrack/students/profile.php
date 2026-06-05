@@ -73,6 +73,7 @@ $lbl = $average === null ? 'No grades' : ($average >= 85 ? 'Excellent' : ($avera
     <?php endif; ?>
     <div class="action-group">
       <a href="/edutrack/students/edit.php?id=<?= $id ?>" class="btn btn-warning btn-sm">Edit</a>
+        <a href="/edutrack/grades/export_pdf.php?id=<?= $id ?>" class="btn btn-success btn-sm" target="_blank">⬇ Export PDF</a>
       <button class="btn btn-danger btn-sm" onclick="confirmDelete(<?= $id ?>, '<?= htmlspecialchars(addslashes($student['firstname'].' '.$student['lastname'])) ?>')">Delete</button>
     </div>
   </div>
