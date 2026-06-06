@@ -76,7 +76,7 @@ _Add your project screenshots here._
 
 - Login and authentication system (DONE✅)
 - Role-based access
-- Export grades to PDF
+- Export grades to PDF (DONE✅)
 - Dashboard analytics
 - Student profile picture upload
 
