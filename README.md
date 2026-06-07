@@ -65,7 +65,6 @@ http://localhost/edutrack
 
 ## 📸 Screenshots
 
-_Add your project screenshots here._
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/31340bd8-40c3-4b39-a079-67ce4a53dffe" />
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/e5e28475-d470-49b2-b724-12b2daeb69e6" />
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/a813205d-d2a6-4224-942f-9c5f0a13bc34" />
