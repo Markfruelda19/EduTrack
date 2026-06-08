@@ -76,7 +76,7 @@ http://localhost/edutrack
 - Login and authentication system (DONE✅)
 - Role-based access
 - Export grades to PDF (DONE✅)
-- Dashboard analytics
+- Dashboard analytics (DONE✅)
 - Student profile picture upload
 
 ---
