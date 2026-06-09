@@ -18,6 +18,7 @@ CREATE TABLE IF NOT EXISTS students (
     course      VARCHAR(100) NOT NULL,
     year_level  VARCHAR(20)  NOT NULL,
     email       VARCHAR(120),
+    photo       VARCHAR(255),
     created_at  TIMESTAMP    DEFAULT CURRENT_TIMESTAMP
 );
 
